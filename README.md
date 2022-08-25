@@ -1,7 +1,7 @@
 # Rosario Taxi Service Analysis
 This is our graduation project for CoderHouse, our **team**decided to make a visual report over the Taxi Service in the city of Rosario, Santa Fe, Argentina. It gives the reader a general perspective about the service statistics, including themes like usability and rentability.
 
-It was indeed a great project to learn from, both technical and **soft skills**, since a lot of teamwork were required. 
+It was indeed a great project to learn from. Both technical and **soft skills** were developed since a lot of teamwork was required. 
 This readme resumes the project and the experience behind it, however, full documentation can be found here (Spanish)
 
 Warning! - The visuals are in Spanish
